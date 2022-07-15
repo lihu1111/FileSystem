@@ -6,9 +6,7 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.Scanner;
 
-/**
- * 本系统共
- */
+
 public class FileSystem {
     public final static String DISK_PATH = "myDisk.disk";
     public final static int DISK_SIZE = 64 * 1024 * 1024;
