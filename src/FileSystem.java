@@ -12,8 +12,6 @@ import java.util.Scanner;
 
 public class FileSystem {
     public final static String DISK_PATH = "myDisk.disk";
-    public final static String master = "myDisk.d";
-    public final static String hot_fix = "myDisk";
     public final static int DISK_SIZE = 64 * 1024 * 1024;
     public final static int BLOCK_SIZE = 8 * 1024;
     //当前目录
