@@ -6,6 +6,9 @@ import java.util.Arrays;
 import java.util.Date;
 import java.util.Scanner;
 
+/**
+ * hot-fix by lh
+ */
 
 public class FileSystem {
     public final static String DISK_PATH = "myDisk.disk";
