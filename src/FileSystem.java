@@ -9,7 +9,6 @@ import java.util.Scanner;
 /**
  * 本系统共
  */
-@SuppressWarnings({"all"})
 public class FileSystem {
     public final static String DISK_PATH = "myDisk.disk";
     public final static int DISK_SIZE = 64 * 1024 * 1024;
